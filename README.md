@@ -44,4 +44,4 @@ The dataset includes the one used in *Scalfani* as well as two additional target
 For further documentation and examples see [this post](https://community.wolfram.com/groups/-/m/t/2958091?p_p_auth=72PcUJjx) as well as the function repository submission. 
 ## Acknowledgements
 
- - This proejct would not have been possible without contributions from the Wolfram Research, including help from my mentor Robert Nachbar, as well as Stephen Wolfram.
+ - This proejct would not have been possible without contributions from the Wolfram Research community, including help from my mentor Robert Nachbar, as well as Stephen Wolfram.
